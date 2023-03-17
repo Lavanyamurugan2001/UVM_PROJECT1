@@ -1,0 +1,12 @@
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+Start time: 09:50:52 on Mar 17,2023
+vlog C:/questasim64_10.6c/uvm-1.1c/sequence_library/rtl/top.sv -l compile.log 
+** Note: (vlog-2286) C:/questasim64_10.6c/uvm-1.1c/sequence_library/rtl/top.sv(2): Using implicit +incdir+C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package top_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Compiling module top
+
+Top level modules:
+	top
+End time: 09:50:53 on Mar 17,2023, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
