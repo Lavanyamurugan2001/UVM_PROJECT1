@@ -1,3 +1,5 @@
+This code contains for increment mode in burst type.
+
 `include "uvm_macros.svh"
  import uvm_pkg::*;
 
@@ -816,10 +818,10 @@ phase.raise_objection(this);
 //#20;
 //vwrrdfx.start(e.a.seqr);
 //#20;
-//vwrrdincr.start(e.a.seqr);
-//#20;
-vwrrdwrap.start(e.a.seqr);
+vwrrdincr.start(e.a.seqr);
 #20;
+//vwrrdwrap.start(e.a.seqr);
+//#20;
 //errwrrdfix.start(e.a.seqr);
 //#20;
 
