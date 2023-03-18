@@ -1,4 +1,4 @@
-This code contains for increment mode in burst type.
+//This code contains for increment mode in burst type.
 
 `include "uvm_macros.svh"
  import uvm_pkg::*;
