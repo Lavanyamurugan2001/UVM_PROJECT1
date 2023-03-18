@@ -1,3 +1,5 @@
+// this is for fixed mode in burst type in test file
+
 `ifndef AXI_TEST_INCLUDED_
 `define AXI_TEST_INCLUDED_
 class test extends uvm_test;
