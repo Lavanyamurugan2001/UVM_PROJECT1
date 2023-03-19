@@ -1,0 +1,16 @@
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+Start time: 16:03:52 on Mar 19,2023
+vlog C:\questasim64_10.6c\axi_memory\rtl\top.sv C:\questasim64_10.6c\axi_memory\tb\tb.sv -l compile.log 
+-- Compiling module axi_slave
+** Warning: C:\questasim64_10.6c\axi_memory\rtl\top.sv(763): (vlog-2182) 'retaddr' might be read before written in always_comb or always @* block.
+** Warning: C:\questasim64_10.6c\axi_memory\rtl\top.sv(1096): (vlog-2182) 'rdretaddr' might be read before written in always_comb or always @* block.
+-- Compiling interface axi_if
+** Note: (vlog-2286) C:\questasim64_10.6c\axi_memory\tb\tb.sv(1): Using implicit +incdir+C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package tb_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Compiling module tb
+
+Top level modules:
+	tb
+End time: 16:03:52 on Mar 19,2023, Elapsed time: 0:00:00
+Errors: 0, Warnings: 2
